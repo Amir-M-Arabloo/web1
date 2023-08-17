@@ -1,0 +1,92 @@
+.himgc{
+    border:1px solid black ;
+    height: 100vh;
+    background-image: url(./img/space/wallpaper2you_302837.jpg);
+    background-size: cover;
+}
+.ml-5{
+    margin-left: 5%;
+}
+.nav2{
+position:sticky ;
+top: 8vh;
+z-index: 1;
+}
+
+.nav1{
+    margin-left: auto;
+}
+.w-33{
+    width: 20%;
+}
+.mt5{margin-top: 10vh;}
+.mt50{margin-top: 20vh;}
+table{
+    text-align: center;
+}
+footer{
+    margin-top: 40vh;
+}
+@media only screen and (max-width:769px) {
+.headc h2{
+font-size: 2rem;
+
+}
+.ds1{
+    flex-direction: column !important;
+    width: 100% !important;
+}
+.ds1d1{
+    width: 100% !important;
+}
+.box2{
+flex-direction: column !important;
+}
+.w-33{
+width: 80% !important;
+margin: auto !important;
+}
+.collbox{
+    width: 80% !important;
+}
+.ds5{
+    width: 100% !important;
+}
+}
+
+
+@media only screen and (min-width:768px) and (orientation: portrait){
+    body, .navbar-brand {font-size: 1.5rem;} 
+    
+        .nav2{
+            font-size: 1.5rem;
+        }
+        .nav2{
+            position:sticky ;
+            top: 6vh;
+            }
+        .nav1{
+            margin-left: 
+            0%;
+        }
+        .ds1{
+            flex-direction: column !important;
+            width: 100% !important;
+        }
+        .ds1d1{
+            width: 100% !important;
+        }
+        .box2{
+        flex-direction: column !important;
+        }
+        .w-33{
+        width: 80% !important;
+        margin: auto !important;
+        }
+        .collbox{
+            width: 80% !important;
+        }
+        .ds5{
+            width: 100% !important;
+        }
+}
