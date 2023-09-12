@@ -69,7 +69,7 @@ margin: auto !important;
         }
         .nav2{
             position:sticky ;
-            top: 6vh;
+            top: 6vh !important;
             }
         .nav1{
             margin-left: 
