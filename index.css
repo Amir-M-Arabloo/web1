@@ -9,7 +9,7 @@
 }
 .nav2{
 position:sticky ;
-top: 7vh;
+top: 8vh;
 z-index: 1;
 }
 
@@ -28,7 +28,13 @@ footer{
     margin-top: 40vh;
 }
 @media only screen and (max-width:769px) {
-.headc h2{
+.nav2{
+position:sticky ;
+top: 6vh !important;
+z-index: 1;
+}
+    
+    .headc h2{
 font-size: 2rem;
 
 }
