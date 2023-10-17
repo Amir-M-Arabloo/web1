@@ -105,6 +105,6 @@ margin: auto !important;
 @media only screen and (max-width:1200px){
     .nav2{
             position:sticky ;
-            top: 4vh !important;
+            top: 3vh !important;
             }
 }
