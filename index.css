@@ -90,3 +90,13 @@ margin: auto !important;
             width: 100% !important;
         }
 }
+@media only screen and (min-width:900px) and (orientation: portrait){
+.nav2{
+            position:sticky ;
+            top: 4vh;
+            }
+
+
+
+    
+}
