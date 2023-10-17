@@ -102,9 +102,9 @@ margin: auto !important;
             top: 4vh !important;
             }
 }
-@media only screen and (max-width:1200px){
+@media only screen and (min-width:1200px){
     .nav2{
             position:sticky ;
-            top: 3vh !important;
+            top: 4-vh !important;
             }
 }
